@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#18181B"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#E11D48"/>
+  <rect x="0" y="622" width="1200" height="8" fill="#F59E0B"/>
+  <text x="600" y="270" font-family="Montserrat,sans-serif" font-size="62" font-weight="700" fill="#FFFFFF" text-anchor="middle">Musik'All</text>
+  <text x="600" y="350" font-family="sans-serif" font-size="30" fill="#E11D48" text-anchor="middle">Instruments de musique · Sainte-Anne, Guadeloupe</text>
+  <text x="600" y="410" font-family="sans-serif" font-size="22" fill="#F59E0B" text-anchor="middle">Revendeur agréé Fender France · 0590 85 89 12</text>
+  <text x="600" y="465" font-family="sans-serif" font-size="18" fill="#9ca3af" text-anchor="middle">Votre musique, votre île</text>
+</svg>

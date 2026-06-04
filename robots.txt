@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://musik-all.pages.dev/sitemap.xml

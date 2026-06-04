@@ -1,0 +1,16 @@
+{
+  "name": "Musik'All",
+  "short_name": "Musik'All",
+  "description": "Magasin d'instruments de musique à Sainte-Anne, Guadeloupe. Vente, location, sonorisation. Revendeur Fender agréé.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#18181B",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+:root {
+  --color-primary: #18181B;
+  --color-secondary: #E11D48;
+  --color-accent: #F59E0B;
+  --color-bg: #FFFFFF;
+  --color-text: #111827;
+  --font-display: "Montserrat", system-ui, sans-serif;
+  --font-body: "Open Sans", system-ui, sans-serif;
+}
